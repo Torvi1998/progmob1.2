@@ -1,0 +1,3 @@
+Genererade upload key och keystore genom att klicka Build > Generate Signed Bundle/APK och sedan välja APK
+Skapa ny upload key och keystore med mina credentials
+Skapa APK av projektet 1.2
